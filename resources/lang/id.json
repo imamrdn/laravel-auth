@@ -1,4 +1,7 @@
 {
-    "Resgister" : "Mendaftar"
+    "Register" : "Daftar",
+    "Login" : "Masuk",
+    "Reset Password Notification" : "Notifikasi Reset Password",
+    "You are receiving this email because we received a password reset request for your account." : "Kamu menerima email ini, karena ada request mengganti password"
 
 }
